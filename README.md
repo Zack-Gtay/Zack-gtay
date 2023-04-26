@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my skills<br>📘 I'm currently learning more about Full-stack Web development<br>🙌 Ask me about any tech-related stuff.<br>📧 How to reach me - Zackgtay@gmail.com<br>⚡ Fun fact: Spaces are better than tabs
+🙌 Ask me about any tech-related stuff.<br>📧 How to reach me - Zackgtay@gmail.com<br>⚡ Fun fact: Spaces are better than tabs
 
 
 ## 🌐 Socials:
